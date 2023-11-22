@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1700591519461,
+      "username": "waqar@gmail.com",
+      "password": "$2b$10$2.MvXAAGzglFtMTjuVkatuAinOpmdHvYnIWB2kcn42V8N/WEPKXU."
+    },
+    {
+      "id": 1700591761726,
+      "username": "usama@gmail.com",
+      "password": "$2b$10$OSdXUX4YUMaHnPfaLKFWcufp14PGFl3pRn96NsYzNcbQuqQxaiv7u"
+    },
+    {
+      "id": 1700591776595,
+      "username": "muzzam@gmail.com",
+      "password": "$2b$10$41epA54hH6Fr6Y3TxOPGhutYM4e/q5WG6KoDFos.tuHc4yD7LHYMW"
+    },
+    {
+      "id": 1700648026255,
+      "username": "myname",
+      "password": "$2b$10$cX0S/6Fw8NeVuW/zKCQKleyHHEHQn2TJm8w1.TO7/yjU.fqc2m2rO"
+    },
+    {
+      "id": 1700648232037,
+      "username": "wqwq",
+      "password": "$2b$10$AZJsdbjd4WSG1yuWh3Ata.a3zuxtHq67bARvamnJnxEeFThLNJqL6"
+    }
+  ],
+  "products": [
+    {
+      "id": 6,
+      "title": "key",
+      "color": "golden",
+      "price": "223",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "title": "hahahsd",
+      "color": "dfas",
+      "price": "2342"
+    },
+    {
+      "id": 8,
+      "title": "adssadvf",
+      "color": "sadfa",
+      "price": "fasdf"
+    },
+    {
+      "id": 9,
+      "title": "dfasdf",
+      "color": "asdfasdf",
+      "price": "23"
+    },
+    {
+      "id": 10,
+      "title": "kalah",
+      "color": "purple",
+      "price": "258"
+    },
+    {
+      "id": 11,
+      "title": "new kala ",
+      "color": "green",
+      "price": "786"
+    },
+    {
+      "id": 12,
+      "title": "asdfasdf",
+      "color": "asdfdsaf",
+      "price": "654"
+    },
+    {
+      "id": 13,
+      "title": "waqar",
+      "color": "waqar",
+      "price": "1122"
+    }
+  ]
+}
